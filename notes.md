@@ -1,4 +1,6 @@
-105 git clone https://github.com/mattpe/git-intro.git
+moi rakkaat
+
+ clone https://github.com/mattpe/git-intro.git
 106 cd git-intro
 107 git remote add origin https://github.com/Aputiti/gitPractice.git
 108 git remote remove origin
